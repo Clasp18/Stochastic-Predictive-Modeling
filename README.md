@@ -21,3 +21,4 @@ Revenue & Expense Forecasting
 Investment Risk Analysis
 
 Budget Planning & Scenario Simulation
+Note: Run the streamlit app by installing necessary modules & executables to see optimum results. The project has the streamlit part working. Future aspects will be committed soon
